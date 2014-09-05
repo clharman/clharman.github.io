@@ -1,0 +1,11 @@
+# Site settings
+title: Colin Luongo Harman
+email: clharman@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Colin's extracurricular projects, hacks, and updates
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "clharman.gihub.io" # the base hostname & protocol for your site
+github_username:  clharman
+
+# Build settings
+markdown: kramdown
