@@ -16,7 +16,7 @@ Many more equations were used, but this set describes the motion of the rocket i
 
 
 
-To make the model predict how my particular rocket will behave, I characterized it by taking measurements (for the simple parameters) and conducting experiments (for the more complicated parameters).  For example, to determine the rocket's moment of inertia about its long axis, I devised an experiment where it was hung from a support structre and swung like a pendulum.  By measuring the frequency of oscillation and knowing the inertia of the support structure I was able to calculate the rocket's moment of inertia with the parallel axis theorem.
+To make the model predict how my particular rocket will behave, I characterized it by taking measurements (for the simple parameters) and conducting experiments (for the more complicated parameters).  For example, to determine the rocket's moment of inertia about its long axis, I devised an experiment where it was hung from a support structure and swung like a pendulum.  By measuring the frequency of oscillation and knowing the inertia of the support structure I was able to calculate the rocket's moment of inertia with the parallel axis theorem.
 ![alt text](/inertia.jpg) 
 
 
