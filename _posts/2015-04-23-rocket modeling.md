@@ -11,6 +11,8 @@ categories:
 For my senior lab class I was tasked with modeling the behavior of a water-bottle rocket.  I did this by creating a mathematical model of the rocket and then solving it using a MATLAB ODE (ordinary differential eqution) solver.  Most of the equations used in the model are based on Newton's second law or the unsteady Bernoulli equation.  In the end it turned out to be between a 4 and 5 degree of freedom model.  The basic set of equations that I derived is shown below.
 ![alt text](/equations.PNG)
 
+
+
 Many more equations were used, but this set describes the motion of the rocket in its most basic form.  Below is example of how several of the model's parameters change during a simulation.
 ![alt text](/4040.jpg)
 
